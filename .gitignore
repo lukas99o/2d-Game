@@ -1,0 +1,7 @@
+# Build output
+bin/
+obj/
+
+# MonoGame content pipeline output
+Content/bin/
+Content/obj/
