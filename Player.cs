@@ -19,7 +19,7 @@ public class Player
 
     public Vector2 Position;
     public Vector2 Velocity;
-    public bool    IsOnGround;
+    public bool IsOnGround;
 
     public Rectangle Bounds => new Rectangle((int)Position.X, (int)Position.Y, Width, Height);
 
